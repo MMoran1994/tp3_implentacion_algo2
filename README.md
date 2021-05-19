@@ -1,3 +1,9 @@
+# Trabajo práctico de implementación
+
+## Objetivo
+Poner a prueba conocimientos sobre OOB mediante la especificación y luego 
+implementación de estructuras de datos abstractas vistas a lo largo de la materia.
+
 # Para los tests
 
 ## Compilación
