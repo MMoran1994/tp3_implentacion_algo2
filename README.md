@@ -2,7 +2,18 @@
 
 ## Objetivo
 Poner a prueba conocimientos sobre OOB mediante la especificación y luego 
-implementación de estructuras de datos abstractas vistas a lo largo de la materia.
+implementación de estructuras de datos abstractas vistas a lo largo de la materia. Para ello se realizó una implementación simplificada del videojuego [Extreme Exorcism](https://www.youtube.com/watch?v=yqgM4GEYlds).
+
+A continuación se deja una copia de la sección enunciado del tp extraído del archivo del mismo nombre (`enunciado.pdf`):
+
+
+# Enunciado
+
+Este TP consiste en implementar en C++ todos los módulos correspondientes al juego especificado en el [TP1](tp2/tp1.pdf) y diseñado en el [TP2](tp2/enunciado.pdf).
+El código debería respetar el diseño elegido en el TP 2 de la manera más fiel posible. Obviamente se permite y
+se espera que corrijan todos los potenciales bugs que puedan llegar a encontrar en el diseño así como adaptaciones
+requeridas durante la corrección del TP 2.
+
 
 # Para los tests
 
