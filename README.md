@@ -4,8 +4,7 @@
 Poner a prueba conocimientos sobre OOB mediante la especificación y luego 
 implementación de estructuras de datos abstractas vistas a lo largo de la materia. Para ello se realizó una implementación simplificada del videojuego [Extreme Exorcism](https://www.youtube.com/watch?v=yqgM4GEYlds).
 
-A continuación se deja una copia de la sección enunciado del tp extraído del archivo del mismo nombre (`enunciado.pdf`):
-
+A continuación se deja una copia de la sección enunciado del tp extraído del archivo del mismo nombre (`enunciado.pdf`). Para información sobre el contenido de cada carpeta leer este archivo:
 
 # Enunciado
 
